@@ -1,0 +1,24 @@
+body {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px !important;
+    line-height: 1.6;
+    font-family: Lato, sans-serif;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8b8b8b;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    padding: 0 0;
+}
+
+.box1{
+    position: relative;
+    padding: 1rem;
+    margin: 1rem -1rem;
+    border: solid #f7f7f9;
+    border-width: .2rem 0 0;
+}
